@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Behaviors\" />
+    <Folder Include="Constants\Messages\" />
+    <Folder Include="Core\Result\Abstraction\" />
+    <Folder Include="Core\Result\Concrete\" />
+    <Folder Include="Features\Products\Commands\" />
+    <Folder Include="Features\Products\Validators\" />
+    <Folder Include="Features\Products\Queries\" />
+    <Folder Include="Messaging\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
