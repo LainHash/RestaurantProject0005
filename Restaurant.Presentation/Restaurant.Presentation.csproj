@@ -11,4 +11,8 @@
     <Folder Include="Controllers\Concrete\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Restaurant.Application\Restaurant.Application.csproj" />
+  </ItemGroup>
+
 </Project>
